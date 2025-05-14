@@ -1,0 +1,6 @@
+nome,idade,sexo,sintoma,duracao,dor,temperatura,frequencia_cardiaca,saturacao,confusao,sangramento,convulsao,classificacao
+João,45,M,Dor de cabeça,2,10,38.5,95,98,1,0,0,vermelho
+Maria,30,F,Enjoo,3,7,37.5,80,100,0,1,0,amarelo
+Pedro,50,M,Choro,5,6,36.5,75,99,0,0,0,verde
+Ana,40,F,Dor abdominal,3,8,37.8,90,97,1,0,1,laranja
+Marcia,88,F,dor na coluna após queda,1,10,37.0,130,98,False,False,False,laranja
